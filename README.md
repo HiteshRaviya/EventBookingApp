@@ -1,2 +1,3 @@
 # EventBookingApp
 EventBookingApp
+# setup application
