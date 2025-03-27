@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Simple Event Booking App</string>
+    <string name="str_upcoming_event">Upcoming Events</string>
+    <string name="str_booking_now">Book Now</string>
+    <string name="str_name">Name</string>
+    <string name="str_email">Email</string>
+    <string name="str_phone_number">Phone Number</string>
+    <string name="str_submit">Submit</string>
+
+
+
+    //Screen name
+    <string name="str_home_screen">Home Screen</string>
+    <string name="str_event_details_screen">Event Details</string>
+    <string name="str_booking_screen">Booking System</string>
+
+
+    // Event Name
+    <string name="str_event1">TechSpark</string>
+    <string name="str_event2">WonderFest</string>
+    <string name="str_event3">Eco-Conscious Expo</string>
+    <string name="str_event4">Fitness Frenzy</string>
+    <string name="str_event5">Foodie Fiesta</string>
+    <string name="str_event6">Dare DevCon</string>
+
+    // Event Description
+    <string name="str_event_1_description">This name stands out by combining Tech to convey a focus on technology, and Spark to suggest innovation and inspiration.</string>
+    <string name="str_event_2_description">This attention-grabbing name is imaginative and playful, with “Wonder” evoking curiosity and excitement, and Fest suggesting a vibrant, mosaic event that is perfect for families and creative arts enthusiasts.</string>
+    <string name="str_event_3_description">The name “EcoConscious Expo” immediately connects to sustainability, attracting individuals and businesses interested in eco-friendly practices</string>
+    <string name="str_event_4_description">A vibrant name for fitness events like marathons, expos, and wellness festivals on a sunny day promising high-energy activities and engaging content.</string>
+    <string name="str_event_5_description">Foodie Fiesta cleverly combines Foodie for culinary enthusiasts with Fiesta for a lively celebration. Perfect for food festivals, restaurant events, or culinary competitions, attracting food lovers seeking a gastronomic adventure.</string>
+    <string name="str_event_6_description">DareDevCon is a creative play on words, merging Daredevil and DevCon (Developer Conference)</string>
+
+
+    // Validation Messages
+    <string name="str_validation_phone_message">Please enter phone number</string>
+    <string name="str_validation_email_message">Please enter email address or valid email address</string>
+    <string name="str_validation_name_message">Please enter name</string>
+    <string name="str_booking_confirmation_message">Booking confirmed for </string>
+
+
+
+</resources>
